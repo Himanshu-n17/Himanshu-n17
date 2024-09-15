@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance.
+I'm using HTML, CSS, and JavaScript to make websites dance🕺🕺.
 
 **I love working with**
 
@@ -18,7 +18,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance.
 ### 🌱 I’m learning
 
 <div display="flex">
-  
+  <img src="https://img.shields.io/badge/REACT-%3333333.svg?style=for-the-badge&logo=REACT&logoColor=%2361DAFB" alt="REACT" />
 </div>
 
 ### 📫 How to reach me
