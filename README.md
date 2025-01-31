@@ -17,7 +17,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance🕺🕺.
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/REACT-%3333333.svg?style=for-the-badge&logo=REACT&logoColor=%2361DAFB" alt="REACT" />
+  <img src="https://img.shields.io/badge/MySQL-%3333333.svg?style=for-the-badge&logo=MySQL&logoColor=%2361DAFB" alt="MySQL" />
   <img src="https://img.shields.io/badge/MONGODB-%3000000.svg?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB" alt="REACT" />
 </div>
 
