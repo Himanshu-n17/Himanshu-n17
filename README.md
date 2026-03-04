@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Himanshu%20Sekhar%20Nayak&fontSize=40&fontColor=00F7FF&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Himanshu Sekhar Nayak</h1>
 
 <p align="center">
@@ -16,26 +20,24 @@ A passionate Full Stack Developer from India 🇮🇳 building intelligent web a
 
 ## 🌱 Currently Learning
 
-**AI Integration with Web Applications**
-**System Design Fundamentals**
+- **AI Integration with Web Applications**
+- **System Design Fundamentals**
 
 ## 👯 Looking to Collaborate On
 
-🌐 Real-world **Full Stack Applications**
-🤖 **AI + Web Integration Projects**
+- 🌐 Real-world **Full Stack Applications**
+- 🤖 **AI + Web Integration Projects**
 
 ## 🤝 Looking For Help With
 
-⚙️ **AI Model Integration in Web Apps**
-🚀 **Deployment & DevOps (Docker, CI/CD)**
+- ⚙️ **AI Model Integration in Web Apps**
+- 🚀 **Deployment & DevOps (Docker, CI/CD)**
 
 ## ⚡ Fun Fact
 
 Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 
 #### 👨‍💻 All of my projects will be available at [Portfolio website coming soon 🚀]
-
-#### 📫 How to reach me **nayak.himanshu2004@gmail.com**
 
 #### 📄 Know about my experiences [Resume available upon request]
 ---
@@ -74,13 +76,19 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-n17&theme=tokyo-night&hide_border=true"/>
 </p> -->
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/himanshu-n17/himanshu-n17/output/snake.svg" alt="Snake animation"/>
-</p>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/himanshu-n17/himanshu-n17/output/snake.svg" alt="Snake animation"/>
+</p> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-n17/himanshu-n17/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-n17/himanshu-n17/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/himanshu-n17/himanshu-n17/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
 ---
 
 <p align="center">
