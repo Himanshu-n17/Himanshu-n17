@@ -1,8 +1,6 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Himanshu%20Sekhar%20Nayak&fontSize=40&fontColor=00F7FF&animation=fadeIn"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Himanshu Sekhar Nayak</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi%20👋,%20I'm%20Himanshu%20Sekhar%20Nayak&fontSize=40&fontColor=00F7FF&animation=fadeIn"/>
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+Web+Integration+Enthusiast;Building+Smart+Web+Applications;Always+Learning+New+Technologies" />
@@ -93,6 +91,9 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 
 <p align="center">
 ⭐ From <b>Himanshu Sekhar Nayak</b>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 </p>
 
 <!--
