@@ -40,7 +40,7 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 #### 📄 Know about my experiences [Resume available upon request]
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/himanshu-sekhar-nayak-6680aa249">
@@ -56,7 +56,7 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs" />
@@ -65,6 +65,7 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,tailwind,ts,git,linux,arduino" />
 </p>
 
+## 🔥 GitHub Streak
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&theme=tokyonight&hide_border=true"/>
 </p>
@@ -73,6 +74,13 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-n17&theme=tokyo-night&hide_border=true"/>
 </p> -->
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/himanshu-n17/himanshu-n17/output/snake.svg" alt="Snake animation"/>
+</p>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 ---
 
 <p align="center">
