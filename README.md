@@ -61,7 +61,6 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs" />
 </p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,tailwind,ts,git,linux,arduino" />
 </p>
@@ -69,7 +68,6 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 <!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-n17&theme=tokyo-night&hide_border=true"/>
@@ -181,8 +179,6 @@ Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
   </a>
 </p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&" alt="himanshu-n17" /></p>
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
