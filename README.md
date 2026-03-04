@@ -1,4 +1,88 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sekhar Nayak</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+Web+Integration+Enthusiast;Building+Smart+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<div align="center">
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
+
+<h3 align="center">
+A passionate Full Stack Developer from India 🇮🇳 building intelligent web applications and smart systems with modern technologies and a strong problem-solving mindset.
+</h3>
+
+---
+
+## 🌱 Currently Learning
+
+**AI Integration with Web Applications**
+**System Design Fundamentals**
+
+## 👯 Looking to Collaborate On
+
+🌐 Real-world **Full Stack Applications**
+🤖 **AI + Web Integration Projects**
+
+## 🤝 Looking For Help With
+
+⚙️ **AI Model Integration in Web Apps**
+🚀 **Deployment & DevOps (Docker, CI/CD)**
+
+## ⚡ Fun Fact
+
+Turning **"Why isn’t this working?"** into **"Ohhh 😅"**
+
+#### 👨‍💻 All of my projects will be available at [Portfolio website coming soon 🚀]
+
+#### 📫 How to reach me **nayak.himanshu2004@gmail.com**
+
+#### 📄 Know about my experiences [Resume available upon request]
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/himanshu-sekhar-nayak-6680aa249">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/himanshu_nayak17">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+📫 **Email:**
+**[nayak.himanshu2004@gmail.com](mailto:nayak.himanshu2004@gmail.com)**
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,tailwind,ts,git,linux,arduino" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+<!-- <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-n17&theme=tokyo-night&hide_border=true"/>
+</p> -->
+
+---
+
+<p align="center">
+⭐ From <b>Himanshu Sekhar Nayak</b>
+</p>
+
+<!--
+<h1 align="center">Hi 👋, I'm Himanshu Sekhar Nayak</h1>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -44,7 +128,7 @@
   <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,tailwind,ts,git,linux,arduino" />
 </p>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" hspace="10"/>
   </a>
@@ -96,16 +180,12 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" hspace="10"/>
   </a>
 </p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&" alt="himanshu-n17" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&" alt="himanshu-n17" /></p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-</div>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+</picture>-->
