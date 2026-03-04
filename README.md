@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sekhar Nayak</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h3 align="center">A passionate Full Stack Developer from India, building intelligent web applications and smart systems with modern technologies and a problem-solving mindset.</h3>
 
 ### 🌱 I’m currently learning 
@@ -34,6 +37,14 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,tailwind,ts,git,linux,arduino" />
+</p>
+
+<!-- <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" hspace="10"/>
   </a>
@@ -59,7 +70,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" hspace="10"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://expressjs.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" hspace="10"/>
@@ -85,6 +95,17 @@
   <a href="https://www.arduino.cc/">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" hspace="10"/>
   </a>
-</p>
+</p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&" alt="himanshu-n17" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-n17&" alt="himanshu-n17" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
